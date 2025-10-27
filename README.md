@@ -19,7 +19,7 @@ The goal is to provide a clear, interactive view of overall sales performance, h
 
 Below is the main view of the Tableau dashboard:
 
-![Car Sales Dashboard](85f2b7cc-c8a6-4858-9cab-8b2c093d2824.png)
+![Car Sales Dashboard](car_dashboard.png)
 
 ---
 
