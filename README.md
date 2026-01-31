@@ -2,9 +2,6 @@
 
 > **Tagline:** Interactive Tableau dashboard for analyzing car sales performance, regional distribution, and company-wise revenue trends.
 
-**GitHub About Section (suggestion):**
-> Explore key insights from two years of car sales data using Tableau. The dashboard highlights performance across time, body style, region, and manufacturer to support data-driven business decisions.
-
 ---
 
 ## 🧭 Overview
