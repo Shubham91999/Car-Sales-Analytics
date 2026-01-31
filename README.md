@@ -1,10 +1,7 @@
 # Car Sales Analytics Dashboard
-
-> **Tagline:** Interactive Tableau dashboard for analyzing car sales performance, regional distribution, and company-wise revenue trends.
-
 ---
 
-## Overview
+## Project Overview
 
 This project presents a **Tableau dashboard** that visualizes and analyzes **car sales performance (2020–2021)** across multiple business dimensions — including time, region, body style, color, and manufacturer.  
 
