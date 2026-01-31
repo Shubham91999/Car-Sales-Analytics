@@ -1,10 +1,10 @@
-# 🚗 Car Sales Analytics Dashboard
+# Car Sales Analytics Dashboard
 
 > **Tagline:** Interactive Tableau dashboard for analyzing car sales performance, regional distribution, and company-wise revenue trends.
 
 ---
 
-## 🧭 Overview
+## Overview
 
 This project presents a **Tableau dashboard** that visualizes and analyzes **car sales performance (2020–2021)** across multiple business dimensions — including time, region, body style, color, and manufacturer.  
 
@@ -12,7 +12,7 @@ The goal is to provide a clear, interactive view of overall sales performance, h
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 Below is the main view of the Tableau dashboard:
 
@@ -20,7 +20,7 @@ Below is the main view of the Tableau dashboard:
 
 ---
 
-## 📊 Key Metrics (KPIs)
+## Key Metrics (KPIs)
 
 | Metric | Value | Insight |
 |--------|--------|----------|
@@ -30,7 +30,7 @@ Below is the main view of the Tableau dashboard:
 
 ---
 
-## 📈 Sales Trend Over Time
+## Sales Trend Over Time
 
 - The **weekly trend** shows consistent growth, peaking near **week 48 ($15.53 M)** — suggesting strong year-end sales activity (holiday promotions or clearances).  
 - The lowest sales (~$0.30 M) occur early in the year, possibly reflecting early-quarter slowdowns or pandemic impact.  
@@ -38,7 +38,7 @@ Below is the main view of the Tableau dashboard:
 
 ---
 
-## 🚙 Sales by Body Style
+## Sales by Body Style
 
 | Body Style | Total Sales |
 |-------------|--------------|
@@ -52,7 +52,7 @@ Below is the main view of the Tableau dashboard:
 
 ---
 
-## 🎨 Sales by Color
+## Sales by Color
 
 | Color | Total Sales |
 |--------|-------------|
@@ -64,7 +64,7 @@ Below is the main view of the Tableau dashboard:
 
 ---
 
-## 🏙️ Regional Performance (Dealer Regions)
+## Regional Performance (Dealer Regions)
 
 Top-performing regions by sales:
 
@@ -79,7 +79,7 @@ Top-performing regions by sales:
 
 ---
 
-## 🏢 Company-Wise Performance
+## Company-Wise Performance
 
 | Company | Cars Sold | Avg. Price | Total Sales | % of YTD Total |
 |----------|------------|-------------|-------------|----------------|
@@ -94,7 +94,7 @@ Top-performing regions by sales:
 
 ---
 
-## 💡 Strategic Insights
+## Strategic Insights
 
 - **Focus on SUVs and Hatchbacks** as they contribute most to total revenue.  
 - **Capitalize on regional leaders** such as Austin and Janesville through targeted marketing campaigns.  
@@ -103,7 +103,7 @@ Top-performing regions by sales:
 
 ---
 
-## 🧰 Tools and Technologies
+## Tools and Technologies
 
 | Category | Tools Used |
 |-----------|------------|
@@ -114,14 +114,14 @@ Top-performing regions by sales:
 
 ---
 
-## 🔗 Tableau Public Link
+## Tableau Public Link
 
 You can interact with the live dashboard here:  
 🌐 [**View on Tableau Public**](https://public.tableau.com/app/profile/shubham.kulkarni4831/viz/Car_Sales_Dashboard_17376833788300/CarSalesDashboard)
 
 ---
 
-## 🧑‍🚀 Author
+## Author
 
 **Shubham Kulkarni**  
 Data Science & ML | Business Analytics | Visualization  
@@ -129,7 +129,7 @@ Data Science & ML | Business Analytics | Visualization
 
 ---
 
-## 🪙 License
+## License
 
 This project is released under the **MIT License** — feel free to use or extend it for learning and research.
 
